@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Javier Cortés - Ingeniería en Conectividad y Redes</title>
 </head>
 <body>
     <header>
