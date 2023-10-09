@@ -38,4 +38,13 @@
         <article>
             <h3>Artículo 4: "Tendencias Emergentes en la Conectividad Global"</h3>
             <p>Descripción breve del artículo: Exploré las tendencias actuales en conectividad global, como la expansión de redes 5G y el Internet de las cosas (IoT).</p>
-            <p>Donde se publicó: Blog de tecnología "
+            <p>Donde se publicó: Blog de tecnología "NetInsights".</p>
+            <p>Fecha de publicación: Enero de 2023.</p>
+        </article>
+    </section>
+    
+    <!-- Otras secciones posteriores -->
+    
+</body>
+</html>
+
